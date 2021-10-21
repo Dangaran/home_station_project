@@ -1,5 +1,5 @@
 # Home Station Project
-Project developed with a Raspberry pi to analyze the differences between the exterior and interior temperature of your house on a daily basis. Besides this, if you attached a camera, you can have a record of the people in that room
+Project developed with a Raspberry pi to analyze the differences between the exterior and interior temperature of your house on a daily basis. Besides this, if you attached a camera, you can have a record of the people in that room.
 
 ## Components
   - Raspberry pi: in my case is a Raspberry pi 4 model B.
@@ -23,7 +23,7 @@ Once you have at least 24 hours of information, you can download a pdf with the 
  - Temperature: plot with the information regarding to the temperature in your house and in your city.
  - Humidity: plot with the information regarding to the relative humidity in your house and in your city.
  - Sky: sky condition of that day in your city (Aemet).
- - Wind: plot with the wind direction in the last 24 hours
+ - Wind: plot with the wind direction in the last 24 hours.
  - People: information about the people in that room in the last 24 hours and a picture of the most relevant hour.
 
 An example of this report can be found here: 
