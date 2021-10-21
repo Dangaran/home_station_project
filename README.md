@@ -28,3 +28,5 @@ Once you have at least 24 hours of information, you can download a pdf with the 
 
 An example of this report can be found here: 
 https://github.com/Dangaran/home_station_project/blob/main/info_summary/daily_summary_07-01-2021.pdf
+
+![report](https://i.ibb.co/wYqFZnQ/image.png)
