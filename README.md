@@ -8,7 +8,7 @@ Project developed with a Raspberry pi to analyze the differences between the ext
   - Labists Camera 5MP 1080p.
   - Bruphny box for Raspberri pi4 model B.
 
-![alt text](https://github.com/Dangaran/home_station_project/blob/main/raspberry.HEIC?raw=true)
+![alt text](https://github.com/Dangaran/home_station_project/blob/main/raspberry.jpg?raw=true)
 
 ## Preparation
 The information extracted with this code will be uploaded to AWS dynamoDB. In order to do that, you must create a free account with AWS and setup the lambdas stored inside the folder ./aws_lambda creating a role for those lambdas as follows: https://aws.amazon.com/es/blogs/security/how-to-create-an-aws-iam-policy-to-grant-aws-lambda-access-to-an-amazon-dynamodb-table/
