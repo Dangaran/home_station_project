@@ -18,7 +18,7 @@ Once you have created this, you must modify the lines 45 and 59 from the script 
 ## Running the station
 You can launch the script as normal python script calling to ./raspberry/collect_and_save_data.py or setting a cron task to execute the script each hour.
 
-## Required Packages
+## Required Packages
 Main packages used on this project. Each packages may be used in several scripts.
   - AWS_lambda:
       - json
@@ -46,7 +46,6 @@ Main packages used on this project. Each packages may be used in several scripts
       - pandas
       - plotnine
       - fpdf
-
 
 ## Extracting the report as pdf
 Once you have at least 24 hours of information, you can download a pdf with the report information regarding to:
