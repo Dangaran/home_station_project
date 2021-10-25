@@ -47,7 +47,7 @@ Main packages used on this project. Each packages may be used in several scripts
       - plotnine
       - fpdf
 
-## Extracting the report as pdf
+## Extracting report as pdf
 Once you have at least 24 hours of information, you can download a pdf with the report information regarding to:
  - Temperature: plot with the information regarding to the temperature in your house and in your city.
  - Humidity: plot with the information regarding to the relative humidity in your house and in your city.
