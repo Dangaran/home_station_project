@@ -18,6 +18,36 @@ Once you have created this, you must modify the lines 45 and 59 from the script 
 ## Running the station
 You can launch the script as normal python script calling to ./raspberry/collect_and_save_data.py or setting a cron task to execute the script each hour.
 
+## Required Packages
+Main packages used on this project. Each packages may be used in several scripts.
+  - AWS_lambda:
+      - json
+      - boto3
+      - sys
+      - logging
+      - traceback
+      - decimal
+      - time 
+      - uuid
+  - Raspeberry:
+      - os
+      - requests 
+      - numpy
+      - picamera
+      - cv2
+      - imutils
+      - argparse
+      - face_recognition
+      - datetime
+      - requests_html 
+      - smbus2
+      - bme280
+  - Info_summary:
+      - pandas
+      - plotnine
+      - fpdf
+
+
 ## Extracting the report as pdf
 Once you have at least 24 hours of information, you can download a pdf with the report information regarding to:
  - Temperature: plot with the information regarding to the temperature in your house and in your city.
